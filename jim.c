@@ -10,7 +10,7 @@
  * Copyright 2008 Steve Bennett <steveb@workware.net.au>
  * Copyright 2009 Nico Coesel <ncoesel@dealogic.nl>
  * Copyright 2009 Zachary T Welch zw@superlucidity.net
- * Copyright 2009 David Brownell
+ * Copyright 2009  David Brownell
  *
  * The FreeBSD license
  *
